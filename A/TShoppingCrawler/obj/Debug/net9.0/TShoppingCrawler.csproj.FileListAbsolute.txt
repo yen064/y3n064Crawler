@@ -1,0 +1,14 @@
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/bin/Debug/net9.0/TShoppingCrawler
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/bin/Debug/net9.0/TShoppingCrawler.deps.json
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/bin/Debug/net9.0/TShoppingCrawler.runtimeconfig.json
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/bin/Debug/net9.0/TShoppingCrawler.dll
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/bin/Debug/net9.0/TShoppingCrawler.pdb
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.AssemblyInfoInputs.cache
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.AssemblyInfo.cs
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.csproj.CoreCompileInputs.cache
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.dll
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/refint/TShoppingCrawler.dll
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.pdb
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/TShoppingCrawler.genruntimeconfig.cache
+/Users/aaronyen/Desktop/git/y3n064Crawler/A/TShoppingCrawler/obj/Debug/net9.0/ref/TShoppingCrawler.dll
